@@ -71,27 +71,18 @@ This is the list of OS and softwares we need
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+1. Download and install ANACONDA
+2. Jupitor notebook comes with ANACONDA package. So, you don't need to worry about it
+3. By default Jupitor notebook access C drive. If you wish to customize, Open command promt and paste following command
+  
+  jupyter notebook --notebook-dir=directory_path
+   
+4. Install MySQL and setup account with password(It is safer that way) 
+  
+  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
