@@ -95,7 +95,8 @@ This is the list of OS and softwares we need
 
 
 
-_For Getting more insights about the Analysis, please refer to the 1. [Stackabuse](https://stackabuse.com/k-means-clustering-with-scikit-learn/)_   
+_For Getting more insights about the Analysis, please refer to the 
+1. [Stackabuse](https://stackabuse.com/k-means-clustering-with-scikit-learn/)_   
 2. [sickitlearn](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
