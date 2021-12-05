@@ -1,9 +1,12 @@
 # K-means
 k-means is  one of  the simplest unsupervised  learning  algorithms  that  solve  the well  known clustering problem. The procedure follows a simple and  easy  way  to classify a given data set  through a certain number of  clusters.
+
 The K-means algorithm starts by randomly choosing a centroid value for each cluster. After that the algorithm iteratively performs three steps:
 
-(i) Find the Euclidean distance between each data instance and centroids of all the clusters;
-(ii) Assign the data instances to the cluster of the centroid with nearest distance;
+(i) Find the Euclidean distance between each data instance and centroids of all the clusters
+
+(ii) Assign the data instances to the cluster of the centroid with nearest distance
+
 (iii) Calculate new centroid values based on the mean values of the coordinates of all the data instances from the corresponding cluster.
 
 <!-- TABLE OF CONTENTS -->
@@ -92,7 +95,8 @@ This is the list of OS and softwares we need
 
 
 
-_For Getting more insights about the Analysis, please refer to the [Stackabuse](https://stackabuse.com/k-means-clustering-with-scikit-learn/)_       [sickitlearn](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html/)_
+_For Getting more insights about the Analysis, please refer to the 1. [Stackabuse](https://stackabuse.com/k-means-clustering-with-scikit-learn/)_   
+2. [sickitlearn](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -133,7 +137,7 @@ Distributed under the DC college License. See `LICENSE.txt` for more information
 
 Your Name - [Ashwin](https://twitter.com/your_username) - ashwinmpillai@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ashwin9494/K-means](https://github.com/ashwin9494/K-means)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
