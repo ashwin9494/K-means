@@ -47,17 +47,11 @@ You may also suggest changes or further in depth analysis by forking this repo a
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section  lists any major frameworks/libraries used to bootstrap the project. 
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
+* [ANACONDA](https://www.anaconda.com/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Python](https://www.python.org/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
