@@ -18,6 +18,9 @@ k-means is  one of  the simplest unsupervised  learning  algorithms  that  solve
     
     
     <li><a href="#contact">Contact</a></li>
+    </ul>
+    </li>
+    <li>
    
   </ol>
 </details>
