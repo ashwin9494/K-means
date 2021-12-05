@@ -31,18 +31,15 @@ k-means is  one of  the simplest unsupervised  learning  algorithms  that  solve
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+I have  created  this project to show K-means clustering is one of the most widely used unsupervised machine learning algorithms that forms clusters of data based on the similarity between data instances using Python.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Reasons to work on this Project:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Working on a project which focuses on a real life probelms will be helpful for people and other patrons who tend to use it in their projects or personal analysis . A project that solves a problem and helps others is always a advanatge .
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+With the help of this repository, it will be easier to generate your own python and make necessary changes as per your requirement.
 
-Use the `BLANK_README.md` to get started.
+You may also suggest changes or further in depth analysis by forking this repo and creating a pull request or opening an issue. Thanks to all the people who will be contributing to expand this project!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
