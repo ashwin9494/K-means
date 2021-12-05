@@ -13,10 +13,7 @@ k-means is  one of  the simplest unsupervised  learning  algorithms  that  solve
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-       
-  
-    <li><a href="#usage">Usage</a></li>
+        
    
     
     
