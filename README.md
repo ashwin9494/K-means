@@ -85,6 +85,23 @@ This is the list of OS and softwares we need
 3. By default Jupitor notebook access C drive. If we wish to customize,We need to Open command prompt and paste the following command
    jupyter notebook --notebook-dir=directory_path
 4. We need to make sure that our Pc has sufficient RAM to perform the analysis.  
+
+
+### Steps
+1. First we will import the Libraries we need to analysis .
+2. Loading the dataset, Here we will use the illness data set.
+3. We will Create a x Variable to load the Dataset (we ignore the y variable)
+4. We will now scale the dataset as per our requirement.
+5. In the next step ,we will determine the number of clusters which we think is optimum as per our requirement.
+6. We will now plot the Elbow method.
+7. For the next step we will Create Silhoutte Coefficients
+8. We will plot Silhoutte as our next step. 
+9. Now we will Create a k means with 2 clusters, We will Apply K means clustering.
+10. For our next step we will add Prediction coloumn to the dataset.
+11. Now we do a plotting of 2 clusters.
+12. Just to clarify our steps , we will use our orginal Three clusters.
+13. Now, We will apply Kmeans clustering again and do the plot of three clusters.
+
    
   
   
