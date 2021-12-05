@@ -72,12 +72,11 @@ This is the list of OS and softwares we need
 ### Installation
 
 1. Download and install ANACONDA
-2. Jupitor notebook comes with ANACONDA package. So, you don't need to worry about it
-3. By default Jupitor notebook access C drive. If you wish to customize, Open command promt and paste following command
-  
-  jupyter notebook --notebook-dir=directory_path
+2. Jupitor notebook comes with ANACONDA package. So, We don't need to worry about it
+3. By default Jupitor notebook access C drive. If we wish to customize,We need to Open command prompt and paste the following command
+   jupyter notebook --notebook-dir=directory_path
+4. We need to make sure that our Pc has sufficient RAM to perform the analysis.  
    
-4. Install MySQL and setup account with password(It is safer that way) 
   
   
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -85,9 +84,9 @@ This is the list of OS and softwares we need
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
+_For Getting more insights about the Analysis, please refer to the [Stackabuse](https://stackabuse.com/k-means-clustering-with-scikit-learn/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
