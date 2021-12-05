@@ -1,5 +1,15 @@
 # K-means
 k-means is  one of  the simplest unsupervised  learning  algorithms  that  solve  the well  known clustering problem. The procedure follows a simple and  easy  way  to classify a given data set  through a certain number of  clusters.
+The K-means algorithm starts by randomly choosing a centroid value for each cluster. After that the algorithm iteratively performs three steps:
+
+(i) Find the Euclidean distance between each data instance and centroids of all the clusters;
+(ii) Assign the data instances to the cluster of the centroid with nearest distance;
+(iii) Calculate new centroid values based on the mean values of the coordinates of all the data instances from the corresponding cluster.
+The K-means algorithm starts by randomly choosing a centroid value for each cluster. After that the algorithm iteratively performs three steps:
+
+(i) Find the Euclidean distance between each data instance and centroids of all the clusters;
+(ii) Assign the data instances to the cluster of the centroid with nearest distance;
+(iii) Calculate new centroid values based on the mean values of the coordinates of all the data instances from the corresponding cluster.
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -86,8 +96,7 @@ This is the list of OS and softwares we need
 
 
 
-_For Getting more insights about the Analysis, please refer to the [Stackabuse](https://stackabuse.com/k-means-clustering-with-scikit-learn/)_
-[sickitlearn](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html/)_
+_For Getting more insights about the Analysis, please refer to the [Stackabuse](https://stackabuse.com/k-means-clustering-with-scikit-learn/)_[sickitlearn](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
